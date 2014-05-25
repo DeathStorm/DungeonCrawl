@@ -1,0 +1,16 @@
+<XMLTranslation>
+  <german>
+    <gender>Geschlecht</gender>
+    <race>Volk</race>
+    <genderfemale>Weiblich</genderfemale>
+    <gendermale>Männlich</gendermale>
+    <charactername>Name</charactername>
+  </german>
+  <english>
+    <gender>Gender</gender>
+    <race>Race</race>
+    <genderfemale>Female</genderfemale>
+    <gendermale>Male</gendermale>
+    <charactername>Name</charactername>
+  </english>
+</XMLTranslation>
